@@ -26,4 +26,4 @@ jobs:
           # URL of the project to add issues to
           project-url: https://github.com/orgs/PrideCraft/projects/1/
           # A GitHub personal access token with write access to the project
-          github-token: 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
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
