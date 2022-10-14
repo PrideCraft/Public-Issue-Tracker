@@ -1,4 +1,13 @@
-**Suggestion**
+---
+name: Feature Reguest
+about: Request a feature
+title: ''
+labels: enhancement
+assignees: ''
+
+---
+
+**Feature Request**
 Describe your suggestion.
 
 **Is your feature request related to a problem? Please describe.**
