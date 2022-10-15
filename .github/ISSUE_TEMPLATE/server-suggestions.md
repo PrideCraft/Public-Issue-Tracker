@@ -14,4 +14,4 @@ Describe your suggestion.
 A clear and concise description of any alternative solutions or features you've considered.
 
 **Username**
-What is your Minecraft username? You can add your discord too.
+Please include your Minecraft username, Discord username, Tag, and ID ([don't know how to get your id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-))
