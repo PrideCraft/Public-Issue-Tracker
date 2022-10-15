@@ -1,5 +1,5 @@
 ---
-name: Feature Reguest
+name: Feature Request
 about: Request a feature
 title: ''
 labels: enhancement
