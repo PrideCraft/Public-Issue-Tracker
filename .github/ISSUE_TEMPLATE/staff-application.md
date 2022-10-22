@@ -20,7 +20,7 @@ Please include any skills you have that would make you a desirable asset.<br>
 (Replace this text)
 
 **Required skills**
-It is required you check all the below.
+It is required you check all the below. [Don't know how?](https://www.markdownguide.org/extended-syntax/#task-lists)
 - [ ] I am willing to learn how to use GitHub.
 - [ ] I am willing to spend time learning the required Minecraft commands.
 - [ ] I am familiar with at least the basics of LGBT, and it's community.
