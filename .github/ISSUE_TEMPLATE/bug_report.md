@@ -8,7 +8,8 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is:<br>
+(Replace this text)
 
 **To Reproduce**
 Steps to reproduce the behavior:
@@ -18,10 +19,12 @@ Steps to reproduce the behavior:
 4. See error
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected to happen.<br>
+(Replace this text)
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
 **Username**
-Please include your Minecraft username, Discord username, Tag, and ID ([don't know how to get your id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-))
+Please include your Minecraft username, Discord username, Tag, and ID ([don't know how to get your id?](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-))<br>
+(Replace this text)
