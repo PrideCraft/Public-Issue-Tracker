@@ -1,7 +1,7 @@
 ---
 name: Staff Application
 about: Apply for staff
-title: 'My Application'
+title: "username's Application"
 labels: application
 assignees: ''
 
