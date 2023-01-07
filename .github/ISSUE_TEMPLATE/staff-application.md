@@ -32,6 +32,7 @@ Check all that applies, These are optional, you are not expected to have these s
 - [ ] Familiar with GitHub
 - [ ] Previous staff experience
 - [ ] Programming
+- [ ] Video editing
 
 **Availability:**
 Please state your schedule.<br>
