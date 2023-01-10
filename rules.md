@@ -1,0 +1,162 @@
+
+# Discord Rules
+
+1.  You must be 13 or older to be in the Discord server.
+
+	 According to Discord’s TOS, you must be 13 or older to have a discord account. If you decided to lie about your age and make an account anyway, that could negatively reflect on the server and may end up getting the discord server taken down.
+
+	If you join our Discord server when you are below the age of 13, you will be banned from it until you’re 13.
+        
+
+2.  Respect all players.
+    
+
+	 Be sure to respect all players, including other players, staff members, and yourself. A player’s title does not mean they should not be respected; if someone asks you to stop doing something, stop.
+    
+
+3.  Do not advertise or promote other Discord or Minecraft servers.
+    
+
+	Saying “hey, do you wanna go on Hypixel?” is okay, but trying to rally the server to go to your personal Minecraft or Discord server is not okay.
+    
+	Make sure that your advertised content follows server rules, and you’re not spamming the advertisement. Send it once and that’s good.
+    
+
+4.  Only post your own art.
+    
+
+	Any other art must be posted with permission and credit.
+    
+
+5.  Alternative accounts are not allowed.
+    
+
+	This is to help stop ban evasion.
+    
+
+6.  Limit profanity and slurs.
+    
+
+	Slurs can make people uncomfortable and therefore aren’t allowed here. Any hints of any slur will result in a permanent ban. Keep in mind that we have young players on the server.
+    
+	This includes: racial, homophobic, transphobic, ableist, and xenophobic slurs, although this is not an exhaustive list.
+    
+
+7.  No spam.
+    
+
+	It’s not nice. Just don’t do it.
+    
+
+8.  We embrace everyone.
+    
+
+	All non-harmful identities are allowed on PrideCraft. This includes LGBTQ+, neurodiversity, race and religion, among others.
+    
+
+9.  Do not mini-mod.
+    
+
+	Although it’s fine to help out every once in a while, please leave the big stuff to our staff.
+    
+	This is to prevent players from getting incorrect information from a player and getting punished because they didn’t know better.
+    
+
+10.  Don’t post any personal information about yourself or others.
+    
+
+		Even though you may think it’s fine to post your personal information to your friends, this is a public Minecraft Discord. The internet is a weird place and we don’t want anyone getting hurt.
+    
+
+11.  When applicable, all text rules apply to voice chats.
+    
+
+		Make sure everyone in the voice chat is comfortable before you say or do something.
+    
+
+12.  Do not yell on voice chat or play offensive music.
+    
+
+		Please be weary of our headphone users and noise sensitive friends.
+    
+
+13.  Do not impersonate other players, including staff.
+    
+
+		This can lead to confusion and misunderstandings. Just don’t do it.
+    
+
+14.  Please do not include special characters in your nickname.
+    
+
+		Make sure your name is as easily pingable as possible.
+    
+
+15.  No NSFW posts or discussions.
+    
+
+		Not everyone is comfortable with NSFW, and we strive to make PrideCraft a safe place for everyone.
+    
+
+# In-Game Rules
+
+1.  Discord rules apply where applicable.
+    
+
+	No slurs, respect others, no spam, etc.
+    
+
+2.  Griefing, stealing etc is forbidden.
+    
+
+	This just makes the game less fun for everyone. Don’t do it.
+    
+
+3.  Trolling is not allowed.
+    
+
+	This includes scamming, messing with players, and anything else you can think of.
+    
+
+4.  Do not beg.
+    
+
+	Begging gets really annoying. If you need something and no one else will do it for you, do it yourself.
+    
+
+5.  Negative world-altering builds are not allowed.
+    
+
+	This includes lag machines, lava casting, and NSFW and hateful builds.
+    
+
+6.  Hacks and advantage-giving mods are not allowed.
+    
+
+	We allow mods such as Optifine, minimaps, mouse tweaks and other client-side utilities, as long as it doesn’t give you an unfair advantage against other players. If you don’t know whether or not your mod is allowed, be sure to ask a staff member.
+    
+
+7.  Duplicating items and use of exploits are not permitted.
+    
+
+	Do not utilise any glitches, whether it be with vanilla Minecraft or our plugins, to gain unfair advantage over others.
+    
+
+8.  Do not claim end portals.
+    
+
+	End portals are for everyone to use. There are way more players than there are end portals, so keep it fair and don’t claim them.
+    
+
+# Shop Rules
+
+1.  You are not entitled to a refund.
+    
+
+	Your money goes directly towards funding the server.
+    
+
+2.  No special treatment. All rules still apply.
+    
+
+	Although we thank you for donating, you will not receive special treatment with your fancy rank. You will be treated equally to other players as far as punishments go.
