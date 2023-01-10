@@ -10,7 +10,7 @@
 
 3. Do not advertise or promote other Discord or Minecraft servers.
 
-   Saying “hey, do you wanna go on Hypixel?” is okay, but trying to rally the server to go to your personal Minecraft or Discord server is not okay.Make sure that your advertised content follows server rules, and you’re not spamming the advertisement. Send it once and that’s good.
+   Saying “hey, do you want to go on Hypixel?” is okay, but trying to rally the server to go to your personal Minecraft or Discord server is not okay.Make sure that your advertised content follows server rules, and you’re not spamming the advertisement. Send it once and that’s good.
 
 4. Only post your own art.
 
@@ -34,11 +34,11 @@
 
 9. Do not mini-mod.
 
-   Although it’s fine to help out every once in a while, please leave the big stuff to our staff. This is to prevent players from getting incorrect information from a player and getting punished because they didn’t know better.
+   Although it’s fine to help out every once in a while, please leave the big stuff to our staff. This is to prevent players from getting incorrect information from a player and getting punished because they didn't know better.
 
 10. Don’t post any personal information about yourself or others.
 
-    Even though you may think it’s fine to post your personal information to your friends, this is a public Minecraft Discord. The internet is a weird place and we don’t want anyone getting hurt.
+    Even though you may think it’s fine to post your personal information to your friends, this is a public Minecraft Discord. The internet is a weird place, and we don’t want anyone getting hurt.
 
 11. When applicable, all text rules apply to voice chats.
 
@@ -84,7 +84,7 @@
 
 6. Hacks and advantage-giving mods are not allowed.
 
-   We allow mods such as Optifine, minimaps, mouse tweaks and other client-side utilities, as long as it doesn’t give you an unfair advantage against other players. If you don’t know whether or not your mod is allowed, be sure to ask a staff member.
+   We allow mods such as Optifine, minimaps, mouse tweaks and other client-side utilities, as long as it doesn't give you an unfair advantage against other players. If you don’t know whether your mod is allowed or not, be sure to ask a staff member.
 
 7. Duplicating items and use of exploits are not permitted.
 
