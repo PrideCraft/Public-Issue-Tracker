@@ -1,0 +1,17 @@
+# **Servers-Minecraft**
+https://servers-minecraft.net/server-pridecraft.11631
+
+# **MinecraftServersBiz**
+https://minecraftservers.biz/pridecraft-13/
+
+# **PlanetMinecraft** (currently not working)
+https://www.planetminecraft.com/server/pridecraft-5535231/vote/
+
+# **MinecraftServersOrg**
+https://minecraftservers.org/vote/634159
+
+# **Minecraft-MP**
+https://minecraft-mp.com/server/302098/vote/
+
+# **Minecraft-Server-List**
+https://minecraft-server-list.com/server/490561/vote/
